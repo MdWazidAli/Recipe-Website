@@ -1,0 +1,1 @@
+I'm creating a Recipe Website using HTML and CSS. This site includes sections for different recipes, each with a title, image, ingredients, and instructions. CSS styles enhance the layout, colors, and fonts, making the site visually appealing and easy to navigate for users looking for cooking inspiration.
